@@ -2,7 +2,7 @@
 
 ## Curso de HTML5 e CSS3 do CursoemVídeo
 
-## ALguns sites criados
+## Alguns sites criados
 <a href="https://lucasmarquesmd.github.io/html-css/HTML-CSS/Exercicios/ex010/index.html">Curiosidades de tecnologia</a>
 
 
